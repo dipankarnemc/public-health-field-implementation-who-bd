@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "WHO Bangladesh – NCD and Mental Health Programme Work Summary (2022–2025)"
+version: "1.0"
+date-released: "2025-12-11"
+
+authors:
+  - family-names: "Das"
+    given-names: "Dipankar"
+    affiliation: "World Health Organization (WHO) Bangladesh – NCD & Mental Health Programme"
+    orcid: "https://orcid.org/0000-0001-8319-117X"
+
+abstract: >
+  This repository contains tools, training materials, and documentation developed during my work with
+  the WHO Bangladesh NCD and Mental Health Program between 2023 and 2025. It reflects support provided
+  to strengthen PHC-level service delivery in Jashore and Jhenaidah, including capacity building,
+  tele-mental health centers, suicide surveillance, and community-based health promotion.
+
+keywords:
+  - WHO Bangladesh
+  - Noncommunicable Diseases
+  - Mental Health
+  - Primary Health Care
+  - Tele-mental Health
+  - Suicide Prevention
+  - Community Engagement
+  - Health Promotion
+  - Bangladesh
+
+repository-code: "https://github.com/dipankarnemc/public-health-field-implementation-who-bd/"
+license: "CC-BY-4.0"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Das"
+      given-names: "Dipankar"
+  year: "2025"
+  title: "WHO Bangladesh – NCD and Mental Health Program Work Summary (2023–2025)"
+  url: "https://github.com/dipankarnemc/public-health-field-implementation-who-bd/"
